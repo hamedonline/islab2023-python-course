@@ -6,9 +6,11 @@ Sessions are held via Skype platform and we'll make sure to get them recorded. H
 
 All the teaching materials including presentation slides, jupyter notebook codes that contain code snippets ran through each session, exercises, etc., will be uploaded gradually on this repository as the course goes on. Make sure to notice possible fixes or updates in future to stay in sync with the latest version of files.
 
+---
+
 ## Session 1: Introduction to Python
 
-- Installing Python & Preparing the Environment (With installation demo  at the end of the session)
+- Installing Python & Preparing the Environment
   - Introducing Python Interpreter
   - Approaches to Installing Python Interpreter
   - Introduction to Package Management
@@ -25,3 +27,13 @@ All the teaching materials including presentation slides, jupyter notebook codes
   - Getting User Input
 
 A demo is presented at the end of the first session for installation of Python & environment preparation using preferred approach. As the editor of choice, [VS Code](https://code.visualstudio.com/) is also setup during this demo because of its simplicity and versatility, along with initial adjustments needed to work seamlessly with new environments.
+
+---
+
+## Acknowledgements
+
+- Special thanks to [Dr. Mohammad Teshnehlab](mailto:teshnehlab@eetd.kntu.ac.ir), head of ISLab (Intelligent Systems Lab) in K.N. Toosi University of Technology, Tehran Iran
+- The course is brought to you by a collaborative effort from the following:
+  - [Hamed Homaei Rad](mailto:h.homaei@gmail.com)
+  - [Shahrzad Shahshahani](mailto:shahrzad.sh7798@gmail.com)
+  - [Saeed Samimi](mailto:s.samimi@email.kntu.ac.ir)

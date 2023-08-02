@@ -10,6 +10,8 @@ All the teaching materials including presentation slides, jupyter notebook codes
 
 ## Session 1: Introduction to Python
 
+[[Slides]](./01_introduction/01_slides.pdf) [[Jupyter Notebook 1.1]](./01_introduction/01.1_installing-python.ipynb) [[Jupyter Notebook 1.2]](./01_introduction/01.2_introduction-to-basic-concepts.ipynb) [[Exercises]](./01_introduction/01_exercises.ipynb)
+
 - Installing Python & Preparing the Environment
   - Introducing Python Interpreter
   - Approaches to Installing Python Interpreter

@@ -30,6 +30,21 @@ All the teaching materials including presentation slides, jupyter notebook codes
 
 A demo is presented at the end of the first session for installation of Python & environment preparation using preferred approach. As the editor of choice, [VS Code](https://code.visualstudio.com/) is also setup during this demo because of its simplicity and versatility, along with initial adjustments needed to work seamlessly with new environments.
 
+## Session 2: Data Types in Python
+
+[[Slides]](./02_data-types/02_slides.pdf) [[Jupyter Notebook]](./02_data-types/02_data-types-in-python.ipynb) [[Exercises]](./02_data-types/02_exercises.ipynb)
+
+- Introducing Composite Data Types
+- List
+- Tuple
+- Set
+- Dictionary
+- Data Types Comparison
+- What are Objects?
+- When to Use Each Data Type
+- Data Types and Assignment Operator
+- Identity Operators
+
 ---
 
 ## Acknowledgements

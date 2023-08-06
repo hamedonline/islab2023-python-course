@@ -52,5 +52,5 @@ A demo is presented at the end of the first session for installation of Python &
 - Special thanks to [Dr. Mohammad Teshnehlab](mailto:teshnehlab@eetd.kntu.ac.ir), head of ISLab (Intelligent Systems Lab) in K.N. Toosi University of Technology, Tehran Iran
 - The course is brought to you by a collaborative effort from the following:
   - [Hamed Homaei Rad](mailto:h.homaei@gmail.com)
-  - [Shahrzad Shahshahani](mailto:shahrzad.sh7798@gmail.com)
+  - [Shahrzad Shashaani](mailto:shahrzad.sh7798@gmail.com)
   - [Saeed Samimi](mailto:s.samimi@email.kntu.ac.ir)

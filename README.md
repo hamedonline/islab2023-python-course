@@ -47,7 +47,7 @@ A demo is presented at the end of the first session for installation of Python &
 
 ## Session 3: Beyond Basics
 
-[[Slides]](./03_beyond-basics/03_slides.pdf) [[Jupyter Notebook]](./03_beyond-basics/03_beyond-basics.ipynb) [[Exercises]](./02_data-types/03_exercises.ipynb)
+[[Slides]](./‌03_beyond-basics/03_slides.pdf) [[Jupyter Notebook]](./‌03_beyond-basics/03_beyond-basics.ipynb) [[Exercises]](./‌03_beyond-basics/03_exercises.ipynb)
 
 - Array Slicing Using Indices
 - Packing & Unpacking in Python

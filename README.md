@@ -45,6 +45,19 @@ A demo is presented at the end of the first session for installation of Python &
 - Data Types and Assignment Operator
 - Identity Operators
 
+## Session 3: Beyond Basics
+
+[[Slides]](./03_beyond-basics/03_slides.pdf) [[Jupyter Notebook]](./03_beyond-basics/03_beyond-basics.ipynb) [[Exercises]](./02_data-types/03_exercises.ipynb)
+
+- Array Slicing Using Indices
+- Packing & Unpacking in Python
+- String Operations in Python
+  - Useful String Methods
+  - Joining Strings
+  - String Formatting
+- Useful Built-in Functions
+  - print(), dir(), help(), type(), len(), sorted(), any(), all(), enumerate()
+
 ---
 
 ## Acknowledgements

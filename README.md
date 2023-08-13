@@ -4,7 +4,7 @@ Welcome to github repository of ISLab Python Course. The 2023 cohort of Python c
 
 Sessions are held via Skype platform and we'll make sure to get them recorded. Hence, all registered participants will have access to video files. Students of this course also get added to a dedicated private Telegram group, giving them the option to ask questions, join discussions, share progress and seek guidance from mentors regarding any problems they may encounter during the course.
 
-All the teaching materials including presentation slides, jupyter notebook codes that contain code snippets ran through each session, exercises, etc., will be uploaded gradually on this repository as the course goes on. Make sure to notice possible fixes or updates in future to stay in sync with the latest version of files.
+All the teaching materials including presentation slides, jupyter notebook codes that contain code snippets ran through each session, exercises, etc., will be uploaded gradually on this repository, as the course goes on. Make sure to notice possible fixes or updates in future to stay in sync with the latest version of files.
 
 ---
 
@@ -18,7 +18,6 @@ All the teaching materials including presentation slides, jupyter notebook codes
   - Introduction to Package Management
   - Introduction to Environment Management
   - Setting-up an Editor
-
 - Introduction to Basic Concepts
   - Comments in Python
   - Variables in Python
@@ -56,7 +55,26 @@ A demo is presented at the end of the first session for installation of Python &
   - Joining Strings
   - String Formatting
 - Useful Built-in Functions
-  - print(), dir(), help(), type(), len(), sorted(), any(), all(), enumerate()
+  - `print()`, `dir()`, `help()`, `type()`, `len()`, `sorted()`, `any()`, `all()`, `enumerate()`
+
+## Session 4: Control Flow in Python
+
+[[Slides]](./04_control-flow/04_slides.pdf) [[Jupyter Notebook]](./04_control-flow/04_control-flow-in-python.ipynb)
+
+- Conditional Statements
+  - `if`, `elif`, `else`
+  - Multi-conditions
+  - Switch Case
+- Loops & Iterations
+  - Loops: `while` Statement
+  - Built-in `range()` Function
+  - Loops: `for` Statement
+    - Nested `for` Loops
+    - Iteration over Sequences
+    - Reverse Iteration
+    - Iteration over Multiple Arrays
+    - `break`, `continue`, and `pass`
+- Comprehensions in Python
 
 ---
 

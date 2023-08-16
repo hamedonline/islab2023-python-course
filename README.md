@@ -76,6 +76,23 @@ A demo is presented at the end of the first session for installation of Python &
     - `break`, `continue`, and `pass`
 - Comprehensions in Python
 
+## Session 5: Functions in Python
+
+[[Slides]](./05_functions/05_slides.pdf) [[Jupyter Notebook]](./05_functions/05.1_functions-in-python.ipynb) [[Docstring Styles Template]](./05_functions/05.2_docstrings-template.py)
+
+- Defining Functions
+  - Arbitrary Arguments, Pass Statement, Multiple Returns, ...
+- Passing Functions as Arguments
+- Nested Functions
+- Variable Scopes
+- Call by Reference / Value
+- One-line Lambda Functions
+- Getting to know `map()` and `zip()` Functions
+- Type Hinting
+  - Combinations for Arrays
+  - Multi-type Declaration
+  - Type Hinting in Functions
+
 ---
 
 ## Acknowledgements

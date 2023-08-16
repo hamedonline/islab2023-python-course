@@ -16,7 +16,7 @@ https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html
 
 # Google Docstring
 
-def add_google_docstrings(num1 : int, num2 : int = 0) -> int:
+def add_fn_google_docstrings(num1 : int, num2 : int = 0) -> int:
     """Add up two integer numbers.
 
     This function simply wraps the ``+`` operator, and does not
@@ -34,11 +34,11 @@ def add_google_docstrings(num1 : int, num2 : int = 0) -> int:
         AnyError: If anything bad happens.
     
     Examples:
-        >>> add(9, 2)
+        >>> add_fn_google_docstrings(9, 2)
         11
-        >>> add(93, 0)
+        >>> add_fn_google_docstrings(93, 0)
         93
-        >>> add(10, -10)
+        >>> add_fn_google_docstrings(10, -10)
         0
     """
     return num1 + num2
@@ -47,7 +47,7 @@ def add_google_docstrings(num1 : int, num2 : int = 0) -> int:
 
 # NumPy Docstring
 
-def add_numpy_docstrings(num1: int, num2: int = 0) -> int:
+def add_fn_numpy_docstrings(num1: int, num2: int = 0) -> int:
     """
     Add up two integer numbers.
 
@@ -78,11 +78,11 @@ def add_numpy_docstrings(num1: int, num2: int = 0) -> int:
 
     Examples
     --------
-    >>> add(9, 2)
+    >>> add_fn_numpy_docstrings(9, 2)
     11
-    >>> add(93, 0)
+    >>> add_fn_numpy_docstrings(93, 0)
     93
-    >>> add(10, -10)
+    >>> add_fn_numpy_docstrings(10, -10)
     0
     """
     return num1 + num2

@@ -1,0 +1,4 @@
+Hello world!
+This is python class...
+
+It is session 7 :)

@@ -114,7 +114,25 @@ A demo is presented at the end of the first session for installation of Python &
 
 [[Slides]](./07_working-with-files/07_slides.pdf) [[Jupyter Notebook]](./07_working-with-files/07_working-with-files-in-python.ipynb)
 
-- Topics Update in Progress...
+- File Handling Modes
+  - Reading from File
+  - Writing to File
+  - Appending to File
+  - `seek()` Function
+  - Binary Mode
+  - Closing a File
+- Reading and Saving Image Files
+- Handling File Exceptions
+- The Usage of `with` Statement
+- Reading `.csv` Files
+- Using Pandas Library to Read and Manage Tabular Files
+- Saving Objects to Files and Reading Them Back
+
+## Special Session: A Brief Introduction to Machine Learning
+
+[[Slides]](./special-session_intro-to-machine-learning/ss_slides.pdf) [[Jupyter Notebook]](./special-session_intro-to-machine-learning/ss_MLP-from-scratch.ipynb)
+
+During the course, an additional session was held to provide students with a brief introduction to fundamental machine learning concepts. The session covered a range of topics, including general machine learning principles, the differences between machine learning and traditional programming, data types, data splitting, data pre-processing, data leakage, and various types of machine learning algorithms such as linear regression, support vector machines (SVM), k-nearest neighbors (KNN), and artificial neural networks (ANN). The session concluded with a coding demonstration that walked students through the process of developing a multi-layer perceptron (MLP) from scratch.
 
 ---
 

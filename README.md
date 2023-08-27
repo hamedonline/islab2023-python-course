@@ -93,6 +93,29 @@ A demo is presented at the end of the first session for installation of Python &
   - Multi-type Declaration
   - Type Hinting in Functions
 
+## Session 6: Debugging in Python
+
+[[Slides]](./06_debugging/06_slides.pdf) [[Jupyter Notebook]](./06_debugging/06.1_debugging-in-python.ipynb)
+
+- Assertion
+- Errors
+  - Syntax Error
+  - FileNotFoundError
+  - Logical Error
+  - Other Errors
+- Exceptions
+  - Raising an Exception
+  - Exception Handling with `try`
+  - Handling Multiple Exceptions
+  - Writing Customized Exception
+- Debugging Demo using Popular IDEs (PyCharm & VS Code)
+
+## Session 7: Working with Files in Python
+
+[[Slides]](./07_working-with-files/07_slides.pdf) [[Jupyter Notebook]](./07_working-with-files/07_working-with-files-in-python.ipynb)
+
+- Topics Update in Progress...
+
 ---
 
 ## Acknowledgements
